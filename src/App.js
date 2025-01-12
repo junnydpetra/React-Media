@@ -12,15 +12,11 @@ function App() {
       <Banner image="favorites" />
       <Container>
         
-          <Category category={categories[0]}>
-            { categoryFilter(0).map((video) => <Card video_id={video.id} key={video.id} />)}
+        { categories.map((category, index) => 
+          <Category category={category}>
+            { categoryFilter(index).map((video) => <Card video_id={video.id} key={video.id} />)}
           </Category>
-          <Category category={categories[1]}>
-            { categoryFilter(1).map((video) => <Card video_id={video.id} key={video.id} />)}
-          </Category>
-          <Category category={categories[2]}>
-            { categoryFilter(2).map((video) => <Card video_id={video.id} key={video.id} />)}
-          </Category>
+        )}
 
       </Container>
       <Footer />
