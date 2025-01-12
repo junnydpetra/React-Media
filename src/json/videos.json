@@ -1,0 +1,107 @@
+[
+    {
+        "id": "WUvTyaaNkzM",
+        "title": "The essence of calculus",
+        "cover": "https://img.youtube.com/vi/WUvTyaaNkzM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
+        "category": "Calculus"
+    },
+    {
+        "id": "9vKqVkMQHKk",
+        "title": "Derivative paradox | Chapter 2, Essence of calculus",
+        "cover": "https://img.youtube.com/vi/9vKqVkMQHKk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk",
+        "category": "Calculus"
+    },
+    {
+        "id": "S0_qX4VJhMQ",
+        "title": "Derivative formulas through geometry | Chapter 3, Essence of calculus",
+        "cover": "https://img.youtube.com/vi/S0_qX4VJhMQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S0_qX4VJhMQ",
+        "category": "Calculus"
+    },    
+    {
+        "id": "YG15m2VwSjA",
+        "title": "Visualizing the chain rule and product rule | Chapter 4, Essence of calculus",
+        "cover": "https://img.youtube.com/vi/YG15m2VwSjA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YG15m2VwSjA",
+        "category": "Calculus"
+    },
+    {
+        "id": "m2MIpDrF7Es",
+        "title": "What's so special about Euler's number e? | Chapter 5, Essence of calculus",
+        "cover": "https://img.youtube.com/vi/m2MIpDrF7Es/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m2MIpDrF7Es",
+        "category": "Calculus"
+    },
+    {
+        "id": "p_di4Zn4wz4",
+        "title": "Differential equations, a tourist's guide | DE1",
+        "cover": "https://img.youtube.com/vi/p_di4Zn4wz4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p_di4Zn4wz4",
+        "category": "Differential Equations"
+    },
+    {
+        "id": "ly4S0oi3Yz8",
+        "title": "But what is a partial differential equation? | DE2",
+        "cover": "https://img.youtube.com/vi/ly4S0oi3Yz8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ly4S0oi3Yz8",
+        "category": "Differential Equations"
+    },
+    {
+        "id": "ToIXSwZ1pJU",
+        "title": "Solving the heat equation | DE3",
+        "cover": "https://img.youtube.com/vi/ToIXSwZ1pJU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ToIXSwZ1pJU",
+        "category": "Differential Equations"
+    },    
+    {
+        "id": "r6sGWTCMz2k",
+        "title": "But what is a Fourier series? From heat flow to drawing with circles | DE4",
+        "cover": "https://img.youtube.com/vi/r6sGWTCMz2k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r6sGWTCMz2k",
+        "category": "Differential Equations"
+    },
+    {
+        "id": "v0YEaeIClKY",
+        "title": "e^(iπ) in 3.14 minutes, using dynamics | DE5",
+        "cover": "https://img.youtube.com/vi/v0YEaeIClKY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v0YEaeIClKY",
+        "category": "Differential Equations"
+    },
+    {
+        "id": "aircAruvnKk",
+        "title": "But what is a neural network? | DL1",
+        "cover": "https://img.youtube.com/vi/aircAruvnKk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+        "category": "Neural Networks"
+    },
+    {
+        "id": "IHZwWFHWa-w",
+        "title": "Gradient descent, how neural networks learn | DL2",
+        "cover": "https://img.youtube.com/vi/IHZwWFHWa-w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IHZwWFHWa-w",
+        "category": "Neural Networks"
+    },
+    {
+        "id": "Ilg3gGewQ5U",
+        "title": "Backpropagation, step-by-step | DL3",
+        "cover": "https://img.youtube.com/vi/Ilg3gGewQ5U/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U",
+        "category": "Neural Networks"
+    },    
+    {
+        "id": "tIeHLnjs5U8",
+        "title": "Backpropagation calculus | DL4",
+        "cover": "https://img.youtube.com/vi/tIeHLnjs5U8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tIeHLnjs5U8",
+        "category": "Neural Networks"
+    },
+    {
+        "id": "LPZh9BOjkQs",
+        "title": "Large Language Models explained briefly",
+        "cover": "https://img.youtube.com/vi/LPZh9BOjkQs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
+        "category": "Neural Networks"
+    }
+]

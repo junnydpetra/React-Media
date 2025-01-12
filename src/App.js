@@ -3,21 +3,25 @@ import Footer from "./components/Footer";
 import Banner from "./components/Banner";
 import Container from "./components/Container";
 import Card from "./components/Card";
-import videos from "./json/db.json";
-
+import Category, { categories, categoryFilter } from "./components/Category";
 
 function App() {
   return (
     <>
       <Header />
-      <Banner image="home" />
+      <Banner image="favorites" />
       <Container>
-        <h2>Calculus</h2>
-        <section className="cards">
+        
+          <Category category={categories[0]}>
+            { categoryFilter(0).map((video) => <Card video_id={video.id} key={video.id} />)}
+          </Category>
+          <Category category={categories[1]}>
+            { categoryFilter(1).map((video) => <Card video_id={video.id} key={video.id} />)}
+          </Category>
+          <Category category={categories[2]}>
+            { categoryFilter(2).map((video) => <Card video_id={video.id} key={video.id} />)}
+          </Category>
 
-          { videos.map(video => <Card video_id={video.id} key={video.id} /> )}
-
-        </section>
       </Container>
       <Footer />
     </>
